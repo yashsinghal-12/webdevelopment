@@ -1,0 +1,47 @@
+for commenting in php,  we use //, #, and /* */
+syntex
+echo() functino - fro printing the messege
+echo() - which does not return anything.
+php tage <?php?>
+we can use php tag in html body  
+datatype and object of a class and for array also - identifier by "var_dump(variable_name);".
+number of datatypes in php:-
+a. array
+b. object
+c. string
+d. float
+e. null
+f. resource
+g. boolean
+h. integer
+*php does not give any garbage value. 
+explicit type casting in php.
+$str=78.56;
+$num = (int)$str;
+ var_damp($num);
+ * payment gatway method in php
+ different file access method:-
+ 1. require_one
+ 2. include_one
+ static variable :- which is use to store value of previouse execution.
+ echo:- which returns 0 and multiple values can be printed.
+ print:- which returns 1.
+ scope of variable in php:-
+ local
+ global 
+ static
+ types of string class:-
+ 1. single quotation
+ 2. double quotation.
+ 3. docs syntax
+ a. here
+ b. now
+ -Now doc
+ ex:- $str =<<<'mystring'
+ --type your string here--
+ 
+ mystring;
+ -Here doc
+ ex:- $str =<<<"mystring" or mystring
+ 
+ mystring;
